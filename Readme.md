@@ -13,10 +13,10 @@ Configure bin/git-thanks with your email server information and change the defau
 
 Run these inside a git working directory.
 
-This will send an email with the default message.
+This will send an email with the default message:
 
     git-thanks 
 
-This will send a custom message
+This will send a custom message:
     
     git-thanks -m "Custom message here"
